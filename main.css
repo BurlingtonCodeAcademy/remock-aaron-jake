@@ -1,0 +1,18 @@
+.main {
+    width: 70%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.content {
+    margin: auto;
+    width: 80%;
+    float: left;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.sidebar {
+    width: 20%;
+    overflow: hidden;
+}
