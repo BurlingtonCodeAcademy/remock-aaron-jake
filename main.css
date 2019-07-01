@@ -1,5 +1,9 @@
+body {
+    background: #e4e7ed;
+    color: #918C89;
+}
 .main {
-    width: 70%;
+    width: 75%;
     overflow: hidden;
     margin: auto;
 }
@@ -15,4 +19,16 @@
 .sidebar {
     width: 20%;
     overflow: hidden;
+    margin-left: 81%;
+    display: inline-block;
+}
+
+.footer {
+    background: #8d8199;
+    color: black;
+}
+
+.header {
+    color: #DF7E6F;
+    text-align: center;
 }
