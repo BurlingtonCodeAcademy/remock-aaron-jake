@@ -151,3 +151,8 @@ form {
       align-content: center;
       text-align: center;
   }
+
+  .blogcontent {
+      width: 70%;
+      margin: auto;
+  }
