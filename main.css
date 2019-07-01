@@ -1,6 +1,7 @@
 body {
     background: #e4e7ed;
     color: #918C89;
+    font-family: 'Open Sans', sans-serif;
 }
 .main {
     width: 75%;
@@ -10,9 +11,8 @@ body {
 
 .content {
     margin: auto;
-    width: 80%;
+    width: 77%;
     float: left;
-    border: 1px solid black;
     display: inline-block;
 }
 
@@ -20,6 +20,7 @@ body {
     width: 20%;
     overflow: hidden;
     margin-left: 81%;
+    margin: auto;
     display: inline-block;
 }
 
@@ -31,4 +32,40 @@ body {
 .header {
     color: #DF7E6F;
     text-align: center;
+}
+
+.footcont {
+    width: 80%;
+    margin: auto;
+}
+
+.questions {
+    font-size: 24px;
+    text-align: center;
+}
+
+#singlebutton {
+    background: #DF7E6F;
+    border-radius: 5px;
+    font-size: 125%;
+}
+
+#singlebutton:hover {
+    background: rgb(230, 173, 164);
+}
+
+.sidetitle {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(121, 116, 113);
+}
+
+img {
+    width: 95%;
+    height: auto;
+}
+
+.message {
+    height: 200px;
+    width: 300px;
 }
