@@ -38,6 +38,11 @@ body {
   text-align: center;
 }
 
+.header > h3 {
+  color: rgb(121, 116, 113);
+  text-shadow: 1px 2px 2px rgb(153, 148, 144);
+}
+
 .footcont {
   width: 80%;
   margin: auto;
@@ -155,4 +160,9 @@ form {
   .blogcontent {
       width: 70%;
       margin: auto;
+  }
+
+  .threeway {
+    width: 30%;
+    margin: auto;
   }
